@@ -1,0 +1,17 @@
+.head {
+    border: 1px solid blue;
+    text-align: center;
+    margin-left: 32rem;
+    margin-right: 32rem;
+    border-radius: 1.5rem;
+}
+
+.item {
+    color: red;
+    margin-left: 20rem;
+}
+
+li a {
+    color: royalblue;
+    text-decoration: none;
+}
